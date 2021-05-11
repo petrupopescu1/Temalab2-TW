@@ -1,0 +1,312 @@
+{
+  "meniu": [
+    {
+      "id": 1,
+      "nume": "Supă de pasăre cu tăiței",
+      "tip": "supe",
+      "pret": 18,
+      "cantitate": 0
+    },
+    {
+      "id": 2,
+      "nume": "Supă de pasăre cu găluște",
+      "tip": "supe",
+      "pret": 18,
+      "cantitate": 0
+    },
+    {
+      "id": 3,
+      "nume": "Supă de roșii",
+      "tip": "supe",
+      "pret": 15,
+      "cantitate": 0
+    },
+    {
+      "id": 4,
+      "nume": "Cremă de legume",
+      "tip": "supe",
+      "pret": 16,
+      "cantitate": 0
+    },
+    {
+      "id": 5,
+      "nume": "Ciorbă de fasole",
+      "tip": "supe",
+      "pret": 17,
+      "cantitate": 0
+    },
+    {
+      "id": 6,
+      "nume": "Ciorbă de lobodă",
+      "tip": "supe",
+      "pret": 18,
+      "cantitate": 0
+    },
+    {
+      "id": 7,
+      "nume": "Ciorbă de văcuță",
+      "tip": "supe",
+      "pret": 22,
+      "cantitate": 0
+    },
+    {
+      "id": 8,
+      "nume": "Ciorbă de pește",
+      "tip": "supe",
+      "pret": 24,
+      "cantitate": 0
+    },
+    {
+      "id": 9,
+      "nume": "Ciorbă rădăuțeană",
+      "tip": "supe",
+      "pret": 23,
+      "cantitate": 0
+    },
+    {
+      "id": 10,
+      "nume": "Ciorbă de burtă",
+      "tip": "supe",
+      "pret": 25,
+      "cantitate": 0
+    },
+    {
+      "id": 11,
+      "nume": "Salată bulgărească",
+      "tip": "salate",
+      "pret": 18,
+      "cantitate": 0
+    },
+    {
+      "id": 12,
+      "nume": "Salată de vinete",
+      "tip": "salate",
+      "pret": 20,
+      "cantitate": 0
+    },
+    {
+      "id": 13,
+      "nume": "Salată de icre de știucă",
+      "tip": "salate",
+      "pret": 25,
+      "cantitate": 0
+    },
+    {
+      "id": 14,
+      "nume": "Salată verde cu ridichi",
+      "tip": "salate",
+      "pret": 16,
+      "cantitate": 0
+    },
+    {
+      "id": 15,
+      "nume": "Platou ciobănesc",
+      "tip": "gustari",
+      "pret": 30,
+      "cantitate": 0
+    },
+    {
+      "id": 16,
+      "nume": "Platou cu brânzeturi",
+      "tip": "gustari",
+      "pret": 28,
+      "cantitate": 0
+    },
+    {
+      "id": 17,
+      "nume": "Platou carnivor",
+      "tip": "gustari",
+      "pret": 34,
+      "cantitate": 0
+    },
+    {
+      "id": 18,
+      "nume": "Pastramă de berbecuț",
+      "tip": "principal",
+      "pret": 38,
+      "cantitate": 0
+    },
+    {
+      "id": 19,
+      "nume": "Cotlet de berbecuț",
+      "tip": "principal",
+      "pret": 42,
+      "cantitate": 0
+    },
+    {
+      "id": 20,
+      "nume": "Bulz ciobănesc",
+      "tip": "principal",
+      "pret": 35,
+      "cantitate": 0
+    },
+    {
+      "id": 21,
+      "nume": "Rață pe varză",
+      "tip": "principal",
+      "pret": 56,
+      "cantitate": 0
+    },
+    {
+      "id": 22,
+      "nume": "Fasole cu ciolan",
+      "tip": "principal",
+      "pret": 36,
+      "cantitate": 0
+    },
+    {
+      "id": 23,
+      "nume": "Piept de pui la grătar",
+      "tip": "principal",
+      "pret": 28,
+      "cantitate": 0
+    },
+    {
+      "id": 24,
+      "nume": "Antricot de vițel",
+      "tip": "principal",
+      "pret": 72,
+      "cantitate": 0
+    },
+    {
+      "id": 25,
+      "nume": "Piept de curcan la cuptor",
+      "tip": "principal",
+      "pret": 56,
+      "cantitate": 0
+    },
+    {
+      "id": 26,
+      "nume": "Pui la ceaun",
+      "tip": "principal",
+      "pret": 38,
+      "cantitate": 0
+    },
+    {
+      "id": 27,
+      "nume": "Saramură de crap",
+      "tip": "principal",
+      "pret": 46,
+      "cantitate": 0
+    },
+    {
+      "id": 28,
+      "nume": "Păstrăv la grătar",
+      "tip": "principal",
+      "pret": 36,
+      "cantitate": 0
+    },
+    {
+      "id": 29,
+      "nume": "Mămăligă",
+      "tip": "garnituri",
+      "pret": 12,
+      "cantitate": 0
+    },
+    {
+      "id": 30,
+      "nume": "Piure de carofi",
+      "tip": "garnituri",
+      "pret": 14,
+      "cantitate": 0
+    },
+    {
+      "id": 31,
+      "nume": "Cartofi prăjiți",
+      "tip": "garnituri",
+      "pret": 12,
+      "cantitate": 0
+    },
+    {
+      "id": 32,
+      "nume": "Mujdei",
+      "tip": "garnituri",
+      "pret": 2,
+      "cantitate": 0
+    },
+    {
+      "id": 33,
+      "nume": "Cartofi românești",
+      "tip": "garnituri",
+      "pret": 14,
+      "cantitate": 0
+    },
+    {
+      "id": 34,
+      "nume": "Găluște cu prune",
+      "tip": "desert",
+      "pret": 18,
+      "cantitate": 0
+    },
+    {
+      "id": 35,
+      "nume": "Cremă de zahăr ars",
+      "tip": "desert",
+      "pret": 17,
+      "cantitate": 0
+    },
+    {
+      "id": 36,
+      "nume": "Vinul casei roșu",
+      "tip": "bauturi",
+      "pret": 25,
+      "cantitate": 0
+    },
+    {
+      "id": 37,
+      "nume": "Vinul casei alb",
+      "tip": "bauturi",
+      "pret": 25,
+      "cantitate": 0
+    },
+    {
+      "id": 38,
+      "nume": "Timișoreana sticlă",
+      "tip": "bauturi",
+      "pret": 7,
+      "cantitate": 0
+    },
+    {
+      "id": 39,
+      "nume": "Timișoreana draught",
+      "tip": "bauturi",
+      "pret": 7,
+      "cantitate": 0
+    },
+    {
+      "id": 40,
+      "nume": "Timișoreana fără alcool",
+      "tip": "bauturi",
+      "pret": 8,
+      "cantitate": 0
+    },
+    {
+      "id": 41,
+      "nume": "Borsec plată",
+      "tip": "bauturi",
+      "pret": 6,
+      "cantitate": 0
+    },
+    {
+      "id": 42,
+      "nume": "Borsec minerală",
+      "tip": "bauturi",
+      "pret": 6,
+      "cantitate": 0
+    },
+    {
+      "id": 43,
+      "nume": "Pepsi",
+      "tip": "bauturi",
+      "pret": 8,
+      "cantitate": 0
+    },
+    {
+      "id": 44,
+      "nume": "Țuică de prune",
+      "tip": "bauturi",
+      "pret": 16,
+      "cantitate": 0
+    }
+  ]
+}
